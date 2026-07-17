@@ -17,6 +17,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -46,14 +47,17 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -70,6 +74,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
 |  |
 | ------- |
@@ -92,6 +97,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0496-next-greater-element-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
 | ------- |
@@ -114,4 +120,12 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0901-online-stock-span) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
