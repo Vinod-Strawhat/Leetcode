@@ -16,6 +16,7 @@
 | [0503-next-greater-element-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0739-daily-temperatures) |
+| [1260-shift-2d-grid](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -91,6 +92,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1260-shift-2d-grid](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
