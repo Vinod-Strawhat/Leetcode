@@ -42,6 +42,7 @@
 | [0014-longest-common-prefix](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0917-reverse-only-letters](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Trie
 |  |
 | ------- |
@@ -149,4 +150,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0169-majority-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
