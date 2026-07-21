@@ -64,12 +64,14 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0009-palindrome-number) |
+| [2413-smallest-even-multiple](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
+| [2413-smallest-even-multiple](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
