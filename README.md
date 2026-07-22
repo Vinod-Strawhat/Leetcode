@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0844-backspace-string-compare](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -90,6 +92,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0169-majority-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
