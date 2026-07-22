@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2413-smallest-even-multiple](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0735-asteroid-collision) |
