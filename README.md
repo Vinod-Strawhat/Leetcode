@@ -52,6 +52,7 @@
 | [0917-reverse-only-letters](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Trie
@@ -123,6 +124,7 @@
 | [0735-asteroid-collision](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1260-shift-2d-grid) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Heap (Priority Queue)
@@ -152,6 +154,7 @@
 | [0901-online-stock-span](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
