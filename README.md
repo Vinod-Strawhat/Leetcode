@@ -24,6 +24,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -135,6 +136,7 @@
 | [0496-next-greater-element-i](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
@@ -189,4 +191,8 @@
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
