@@ -7,12 +7,6 @@ public:
             if(s[i]==')' && st.top()=='('){
                 st.pop();
             }
-            else if(s[i]==']' && st.top()=='['){
-                st.pop();
-            }
-            else if(s[i]=='}' && st.top()=='{'){
-                st.pop();
-            }
             else{
             st.push(s[i]);
             }}
