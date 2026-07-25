@@ -55,6 +55,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0394-decode-string) |
@@ -121,6 +122,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
@@ -169,6 +171,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0155-min-stack) |
