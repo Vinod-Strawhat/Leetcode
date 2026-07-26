@@ -9,9 +9,6 @@ public:
             while(!s.empty() &&  k>0 && num[i]<s.top()){
                 s.pop();
                 k--;
-                if(s.empty() && num[i]=='0'){
-                    continue;
-                }
             }
             s.push(num[i]);
             
@@ -21,17 +18,19 @@ public:
             k--;
         }
         string ans="";
-        while(!s.empty()){
-            ans.insert(ans.begin(),s.top());
+        while (!s.empty()) {
+            ans += s.top();
             s.pop();
         }
+
+        reverse(ans.begin(), ans.end());
         int i=0;
         while(ans[i]=='0'){
             i++;
         }
-        if(ans.substr(i,ans.size()).empty()){
-            return "0";
-        }
-        return ans.substr(i,ans.size());
+        if(i == ans.size())
+             return "0";
+
+        return ans.substr(i);
     }
 };
