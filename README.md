@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0321-create-maximum-number](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0321-create-maximum-number) |
 | [0844-backspace-string-compare](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -276,4 +277,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
