@@ -289,4 +289,5 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0328-odd-even-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
