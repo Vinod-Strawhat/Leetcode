@@ -50,6 +50,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -227,6 +228,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1544-make-the-string-great) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
@@ -310,4 +312,5 @@
 | [0234-palindrome-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
