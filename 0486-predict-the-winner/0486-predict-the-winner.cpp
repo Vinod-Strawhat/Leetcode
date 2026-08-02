@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool playgame(int turn, int s1, int s2, int i, int j, vector<int>& nums) {
+bool playgame(int turn, int s1, int s2, int i, int j, vector<int>& nums) {
         // base case
         if (i > j) {
             return s1 >= s2;
