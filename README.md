@@ -46,6 +46,7 @@
 | [0088-merge-sorted-array](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0321-create-maximum-number) |
 | [0844-backspace-string-compare](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0844-backspace-string-compare) |
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0169-majority-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -173,6 +175,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
@@ -319,6 +322,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0328-odd-even-linked-list) |
@@ -328,4 +332,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0486-predict-the-winner) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
