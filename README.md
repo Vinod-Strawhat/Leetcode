@@ -124,6 +124,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0445-add-two-numbers-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1406-stone-game-iii) |
@@ -235,6 +236,7 @@
 | [0321-create-maximum-number](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0735-asteroid-collision) |
@@ -346,6 +348,7 @@
 | [0206-reverse-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Game Theory
