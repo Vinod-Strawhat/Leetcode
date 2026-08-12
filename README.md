@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0321-create-maximum-number](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0321-create-maximum-number) |
+| [0347-top-k-frequent-elements](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0486-predict-the-winner) |
@@ -160,6 +161,7 @@
 | [0088-merge-sorted-array](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -200,6 +202,7 @@
 | [0148-sort-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -214,6 +217,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Hash Table
 |  |
@@ -222,6 +226,7 @@
 | [0141-linked-list-cycle](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -300,6 +305,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1748-sum-of-unique-elements](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -402,4 +408,12 @@
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
