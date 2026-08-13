@@ -31,6 +31,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2574-left-and-right-sum-differences](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -97,6 +98,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1544-make-the-string-great) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -333,6 +335,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sliding Window
 |  |
@@ -416,4 +419,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
