@@ -130,6 +130,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0224-basic-calculator) |
