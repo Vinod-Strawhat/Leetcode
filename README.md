@@ -34,6 +34,7 @@
 | [1748-sum-of-unique-elements](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2540-minimum-common-value](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -66,6 +67,7 @@
 | [0917-reverse-only-letters](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -129,6 +131,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2540-minimum-common-value](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -254,6 +257,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2540-minimum-common-value](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
