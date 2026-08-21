@@ -68,6 +68,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -417,6 +418,7 @@
 | [0328-odd-even-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Game Theory
