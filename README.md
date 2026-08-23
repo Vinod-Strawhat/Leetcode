@@ -84,6 +84,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -109,6 +110,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1544-make-the-string-great) |
+| [1927-sum-game](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -157,6 +159,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1927-sum-game) |
 | [2413-smallest-even-multiple](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -428,6 +431,7 @@
 | [0486-predict-the-winner](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1927-sum-game) |
 ## Merge Sort
 |  |
 | ------- |
