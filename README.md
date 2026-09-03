@@ -15,6 +15,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0321-create-maximum-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -72,6 +73,7 @@
 | [0143-reorder-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0283-move-zeroes) |
 | [0321-create-maximum-number](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0844-backspace-string-compare) |
