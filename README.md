@@ -172,6 +172,7 @@
 | [0224-basic-calculator](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0326-power-of-three) |
 | [0445-add-two-numbers-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0509-fibonacci-number) |
@@ -405,6 +406,7 @@
 | [0224-basic-calculator](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0509-fibonacci-number) |
