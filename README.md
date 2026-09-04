@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -206,6 +207,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0169-majority-element) |
@@ -495,6 +497,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bucket Sort
