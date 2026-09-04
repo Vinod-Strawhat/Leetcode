@@ -17,6 +17,7 @@ public:
             if(ans<=k){
                 final=i;
                 break;
+                
             }
 
         }
