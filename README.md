@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -505,6 +506,7 @@
 | ------- |
 | [0046-permutations](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bucket Sort
@@ -529,4 +531,8 @@
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
