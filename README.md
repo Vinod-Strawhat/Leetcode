@@ -191,6 +191,7 @@
 | [0486-predict-the-winner](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -572,4 +573,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
