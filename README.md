@@ -353,6 +353,7 @@
 | [0020-valid-parentheses](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0155-min-stack) |
@@ -534,6 +535,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -584,10 +586,12 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
