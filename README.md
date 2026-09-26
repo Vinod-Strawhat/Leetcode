@@ -41,6 +41,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -139,6 +140,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1544-make-the-string-great](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1544-make-the-string-great) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -336,6 +338,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2540-minimum-common-value) |
