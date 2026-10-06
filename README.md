@@ -619,6 +619,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vinod-Strawhat/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
