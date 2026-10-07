@@ -125,6 +125,7 @@
 | [0115-distinct-subsequences](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0224-basic-calculator](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0402-remove-k-digits) |
@@ -555,6 +556,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -569,6 +571,7 @@
 | [0047-permutations-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/Vinod-Strawhat/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Vinod-Strawhat/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bucket Sort
